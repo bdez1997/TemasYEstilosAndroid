@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practiceRestart</string>
+    <string name="modulo">Modulo</string>
+    <string name="turno">Turno</string>
+    <string name="dam">DAM</string>
+    <string name="daw">DAW</string>
+    <string name="asir">ASIR</string>
+    <string name="mañana">Mañana</string>
+    <string name="tarde">Tarde</string>
+    <string name="online">Online</string>
+    <string name="iva">Incluir IVA</string>
+    <string name="calcular">Calcular Importe</string>
+</resources>
